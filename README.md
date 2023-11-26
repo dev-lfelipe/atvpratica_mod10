@@ -1,6 +1,6 @@
 # Aplicação React de Gerenciamento de Projetos e Tarefas
 
-Projeto criado com as bibliotecas React JS e Material UI.
+Projeto criado com as bibliotecas React JS e Material UI. Projeto original clonado para fins educacionais por meio da Faculdade Descomplicado (este repositório só tem como diferencial a tela de login).
 
 ## Passo-a-passo para execução
 
