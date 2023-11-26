@@ -2,6 +2,8 @@
 
 Projeto criado com as bibliotecas React JS e Material UI. Projeto original clonado para fins educacionais por meio da Faculdade Descomplicado (este repositório só tem como diferencial a tela de login).
 
+Feito por Luiz Felipe.
+
 ## Passo-a-passo para execução
 
 1. Clonar o repositório
